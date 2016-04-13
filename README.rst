@@ -1,4 +1,4 @@
 startdust
 =========
 
-web monitoring and analytics for your django apps
+web monitoring and analytics for your django apps. 
